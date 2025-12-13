@@ -30,7 +30,7 @@ These certifications demonstrate my core cybersecurity competencies:
 - Vulnerability assessments  
 
 **Tools & Technologies:**  
-- SIEM: Elastic, Splunk (beginner), Chronicle (if used later)  
+- SIEM: Elastic, Splunk (beginner), Chronicle (beginner)
 - Operating Systems: Linux (Ubuntu), Windows  
 - Networking Tools: nmap, Wireshark  
 - Scripting: Bash basics  
@@ -95,7 +95,7 @@ Full documentation coming soon in a dedicated repository.
 ---
 
 ## 📫 How to Reach Me
-- **LinkedIn:** (Add your link here)  
+- **LinkedIn:** (jacqueline-lottering-980635394)  
 - **GitHub:** You're already here 😊  
 
 ---
